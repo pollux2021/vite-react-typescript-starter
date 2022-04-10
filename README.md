@@ -5,7 +5,7 @@
 ## 开始
 
 ```shell
-yarn install
+yarn
 ```
 
 ## 调试
@@ -15,9 +15,9 @@ yarn dev
 ```
 
 ## 构建
-> [vite环境变量配置](https://cn.vitejs.dev/guide/env-and-mode.html)
-> .env.development 与.env.production 环境变量配置
 
+> [vite 环境变量配置](https://cn.vitejs.dev/guide/env-and-mode.html)
+> .env.development 与.env.production 环境变量配置
 
 ```shell
 yarn build
